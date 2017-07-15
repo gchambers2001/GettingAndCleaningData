@@ -10,7 +10,7 @@ This is the project for the course Getting and Cleaning Data.  The script in R i
 
 4. Using rbind, it combines train and test data and adds names to the variables created.
 
-5. Then the data is merged into a whole new dat set
+5. Then the data is merged into a whole new dat set and converts the activity and subject columns into factors.
 
 6. Then mean and standard deviation is calculated from the data and then labels are created.
 
